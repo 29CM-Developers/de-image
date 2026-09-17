@@ -1,0 +1,6 @@
+# Historical findings confirmed as false positives or already revoked only.
+# Add one line explaining why the finding is safe to ignore.
+# Copy the full commit-specific Fingerprint from the report; do not reconstruct it.
+# Include the change in the same PR; one designated peer reviewer confirms it.
+# Git/PR history is the record. No separate ticket, exception ID, or expiry needed.
+# No actual ignore entries are included in this example.
